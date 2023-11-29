@@ -14,4 +14,6 @@ tensorflow로 lstm을 구축하고 제주_특산물_가격_예측_AI_경진대�
 
 자세한 코드 리뷰는 velog에 진행할 예정이다.
 
+### [에코프로](https://github.com/stockmanager1/-_-/blob/main/LSTM/%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C%EB%A5%BC_lstm%EC%9C%BC%EB%A1%9C_%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94_%EC%BD%94%EB%93%9C.ipynb)
+에코프로 가격을 예측하는 lstm 모델. 근데 급등주는 시간의 정형성에서 벗어나, 예측이 상당히 어려운 것을 알 수 있다.
 
