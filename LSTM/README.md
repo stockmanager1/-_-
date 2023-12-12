@@ -1,5 +1,5 @@
 # LSTM
-
+예측할려는 window 구성 데이터와 예측 데이터의 수가 동일해야 한다.
 ## 시계열 예측
 
 ### [lstm_tensorflow](https://github.com/stockmanager1/-_-/blob/main/LSTM/lstm_tensorflow.ipynb)
@@ -17,3 +17,5 @@ tensorflow로 lstm을 구축하고 제주_특산물_가격_예측_AI_경진대�
 ### [에코프로](https://github.com/stockmanager1/-_-/blob/main/LSTM/%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C%EB%A5%BC_lstm%EC%9C%BC%EB%A1%9C_%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94_%EC%BD%94%EB%93%9C.ipynb)
 에코프로 가격을 예측하는 lstm 모델. 근데 급등주는 시간의 정형성에서 벗어나, 예측이 상당히 어려운 것을 알 수 있다.
 
+### [서울시_평균_기온_예측_해커톤](https://github.com/stockmanager1/-_-/blob/main/LSTM/%EC%84%9C%EC%9A%B8%EC%8B%9C_%ED%8F%89%EA%B7%A0_%EA%B8%B0%EC%98%A8_%EC%98%88%EC%B8%A1_%ED%95%B4%EC%BB%A4%ED%86%A4_lstm.ipynb)
+12월 12일 기준으로 31등이다. 생각보다 성능이 떨어짐.
